@@ -73,4 +73,4 @@ prog.forEach( (item) => {
         console.log(item.name)
     })
 
-    // Accessing objects inside an array using forEach loop. In this case, it will log the name property of each object in the myarr array.
+    // Accessing objects inside an array using forEach loop. In this case, it will log the name property of each object in the myarr array. 
